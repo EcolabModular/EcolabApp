@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938111948861",
+    "firebase_url": "https://ecolab-2aa4d.firebaseio.com",
+    "project_id": "ecolab-2aa4d",
+    "storage_bucket": "ecolab-2aa4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938111948861:android:b36c30abc5ff5d33047254",
+        "android_client_info": {
+          "package_name": "com.flycat.ecolab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938111948861-p5e0q34ad4lgtmdmb39cbvvrv2ss1f6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifzgXghy_WeTz64qKWMULjewURJuApQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938111948861-p5e0q34ad4lgtmdmb39cbvvrv2ss1f6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

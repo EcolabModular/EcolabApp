@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ecolab</string>
+    <string name="ecolab">ECOLAB</string>
+    <string name="todo">TODO</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="no_tienes_cuenta_registrate">¿No tienes cuenta? Registrate</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="olvidaste_contrase_a">¿Olvidaste contraseña?</string>
+    <string name="iniciar">Iniciar</string>
+
+
+    <string name="command_path_data">M18,3a3,3 0,0 0,-3 3v12a3,3 0,0 0,3 3,3 3,0 0,0 3,-3 3,3 0,0 0,-3 -3H6a3,3 0,0 0,-3 3,3 3,0 0,0 3,3 3,3 0,0 0,3 -3V6a3,3 0,0 0,-3 -3,3 3,0 0,0 -3,3 3,3 0,0 0,3 3h12a3,3 0,0 0,3 -3,3 3,0 0,0 -3,-3z</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_cuenta_iniciar_sesi_n">¿Ya tienes cuenta? Iniciar sesión</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="c_digo_de_alumno">Código de alumno</string>
+
+</resources>

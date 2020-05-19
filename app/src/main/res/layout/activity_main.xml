@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent">
+
+        <com.otaliastudios.cameraview.CameraView
+            android:id="@+id/cameraview"
+            android:layout_height="250dp"
+            android:layout_width="250dp"
+            android:layout_gravity="center"
+            android:background="@drawable/border"
+            android:touchscreenBlocksFocus="true"
+            app:cameraFlash="off"
+            tools:targetApi="lollipop">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_command"
+                android:layout_gravity="bottom|end"
+                app:layout_drawOnPreview="true"
+                app:layout_drawOnPictureSnapshot="true"
+                app:layout_drawOnVideoSnapshot="true">
+
+            </ImageView>
+
+        </com.otaliastudios.cameraview.CameraView>
+
+    </FrameLayout>
+
+</LinearLayout>
